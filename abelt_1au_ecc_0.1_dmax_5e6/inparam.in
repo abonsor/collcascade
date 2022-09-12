@@ -1,0 +1,17 @@
+Restart 1	1=beginning_else_inputfiles
+deltat 	1e7	s
+rin	0.75	au
+rout	1.25	au
+imax	0.1	rad
+ecc	0.1
+vrel	1e3	m/s
+delta	0.2	logarithmic_bin_spacing_mass_bins
+alpha_p	3.5	
+mtot0	1	mearth
+rho_s	3e3	kg/m3
+dmax	5e6	m
+dbl	100e-6	m
+ntime	1e8
+outputinterval	1000
+agrain	0.01	m	grainsize
+Fv(0)	0.1	initial_volatilefraction
