@@ -1,0 +1,1 @@
+This is the output files for the run with parameters abelt=1au, e=0.1 and a total mass of 100mearth in particles between dmin=100um and an unreleastic, upper maximum of  dmax=5,000km, with size distribution q (alpha_p)= 3.5
