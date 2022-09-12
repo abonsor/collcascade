@@ -11,6 +11,19 @@ Highlighted are those white dwarfs where all the elemental abundances considered
 
 
 
+Fig.2 : 
+
+bonsor_2022_fig2.ipynb
+Plots the fraction of planetary bodies likely to pollute white dwarfs (50--300km) in size with sufficient Al26 to lead to large-scale melting and form an iron core, assuming a size distribution with D^{-3.5}dD
+
+Requires input from Lichtenberg et al, 2018 https://github.com/timlichtenberg/2stage_scripts_data
+The input files can all be found in this repository including plts_all_data.csv and "r???t???al05250fe01150tmp150.dat"
+
+Source data: bonsor_source_data_fig2.dat
+
+
+Fig. 3: cartoon
+
 
 
 Fig 4 
